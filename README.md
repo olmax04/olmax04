@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maks and I'm a Full-Stack Developer from Belarus🇧🇾</p>
+<p align="left">My name is Maks and I'm a Full-Stack Developer from Belarus 🇧🇾</p>
 
 ###
 
